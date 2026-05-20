@@ -1,3 +1,5 @@
+"""Minimal drop handler that displays dropped data and key state in text widgets."""
+
 import dearpygui.dearpygui as dpg
 
 import DearPyGui_DragAndDrop as dpg_dnd
