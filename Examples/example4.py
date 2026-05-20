@@ -1,3 +1,5 @@
+"""Changes the popup theme based on modifier keys while dragging over the drop window."""
+
 import dearpygui.dearpygui as dpg
 
 import DearPyGui_DragAndDrop as dpg_dnd

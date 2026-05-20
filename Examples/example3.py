@@ -1,3 +1,5 @@
+"""Limits dropping to a popup area while hover styling and drop effect update on drag over."""
+
 import dearpygui.dearpygui as dpg
 
 import DearPyGui_DragAndDrop as dpg_dnd

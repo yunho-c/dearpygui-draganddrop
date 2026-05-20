@@ -1,3 +1,5 @@
+"""Shows a modal hint on drag enter and hides it again on drop or drag leave."""
+
 import dearpygui.dearpygui as dpg
 
 import DearPyGui_DragAndDrop as dpg_dnd

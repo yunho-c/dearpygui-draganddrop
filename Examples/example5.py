@@ -1,3 +1,5 @@
+"""Demonstrates subclassing DragAndDrop to create multiple child-window drop zones."""
+
 import dearpygui.dearpygui as dpg
 
 import DearPyGui_DragAndDrop as dpg_dnd
